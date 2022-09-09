@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
 
 variables {
-  --purple_1: rgb(105, 12, 142);
+  --purple_1: rgb(73, 12, 142);
 }
 
 * {
