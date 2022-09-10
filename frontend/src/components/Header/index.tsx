@@ -7,7 +7,7 @@ import "./styles.css"
 const Header: React.FC = () => {
   return (
     <div>
-      <header>
+      <header id="header">
         <div className="dsmeta-logo-container">
           <img src={logo} alt="DSMeta" />
           <h1>DSMeta</h1>
